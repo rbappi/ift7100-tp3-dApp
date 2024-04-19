@@ -1,0 +1,35 @@
+# Étudiant 1
+Nom complet: Bappi Rahaman
+Numéro de dossier (NI): 537 046 961
+ 
+# Étudiant 2
+Nom complet: Loïs Trassoudaine
+Numéro de dossier (NI): 537 171 697
+
+
+Critères d'évaluation
+---------------------
+/20 : Rapport vidéo (Qualité des réponses, explications et justifications)
+    Commentaires :
+
+/40 : Interface utilisateur + Contrat intelligent
+    Commentaires :
+
+/20 : Déploiement du contrat intelligent sur un réseau Ethereum de test
+    Commentaires :
+
+/10 : Qualité du code (noms de variables, nom des fonctions, etc)
+    Commentaires :
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /90
